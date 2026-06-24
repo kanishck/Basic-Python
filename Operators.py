@@ -48,4 +48,25 @@ print(a!=b)
 a=11
 print((10<a) and (a<20))
 
-print(a<50 Or a>13)
+print(a<50 or a>13)
+
+#Membership
+s = 'String'
+print('i' in s)
+
+#Bitwise
+a=5
+b=4
+
+print(a|b)
+print(a&b)
+print(a^b)
+c=b<<1
+print(c)
+c=a>>1
+print(c)
+
+
+
+# Identity, Bitwise, Asssignment
+#Operator Precedence and Associativity
