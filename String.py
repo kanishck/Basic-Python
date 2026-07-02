@@ -42,3 +42,7 @@ s = 'this is a sentence'
 
 for i in range(0, len(s)):
     print(s[i])
+
+for ch in s:
+    print(s)
+

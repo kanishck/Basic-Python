@@ -68,5 +68,5 @@ print(c)
 
 
 
-# Identity, Bitwise, Asssignment
+# Identity
 #Operator Precedence and Associativity
