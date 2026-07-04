@@ -8,7 +8,10 @@ for i in range(1,(len(str)+1)):
 
 print(str2)
 
+# Second method
 rev=''
+
 for ch in str:
     rev = ch + rev
+
 print(rev)
