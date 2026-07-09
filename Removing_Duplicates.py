@@ -1,9 +1,9 @@
-str = input("Enter a String : ")
+s = input("Enter a String : ")
 
 Ans = ''
 stack = ''
 
-for ch in str:
+for ch in s:
     if ch in stack:
         continue
     else:
